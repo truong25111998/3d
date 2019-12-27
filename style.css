@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+	background-image: url("bg.jpg");
+}
+canvas {
+    position: absolute;
+    background-image: url("bg.jpg");
+    background-repeat: repeat;
+}
